@@ -9,8 +9,6 @@ Zid95/Zid95 is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Abdulkarim&show_icons=true&theme=radical" />
-
 
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul&layout=compact" />
 
