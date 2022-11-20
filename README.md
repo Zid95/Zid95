@@ -25,8 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zid95&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
-<img src="src="https://github-readme-stats.vercel.app/api?username=Zid95&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" data-canonical-src="https://github-readme-stats.vercel.app/api?hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=codeSTACKr&amp;locale=en&amp;hide_border=false&amp;username= Abdul Karim Zid" style="max-width: 100%;">
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
