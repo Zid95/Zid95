@@ -26,5 +26,8 @@ You can click the Preview link to take a look at your changes.
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zid95&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 
+https://camo.githubusercontent.com/64023cb0d978296…36526757365726e616d653d6d6f68616d6d6164617a7a757a
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
